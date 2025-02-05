@@ -9,5 +9,8 @@ wheels/
 # Virtual environments
 .venv
 
+# Database
+*.sqlite3
+
 # Sensitive files
 .env
